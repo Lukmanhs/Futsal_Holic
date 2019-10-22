@@ -24,6 +24,9 @@
                
                     <!-- // END .panel -->
                 </div>
+                 <div>
+                    <alert class="alert alert-default"> here we go </alert>
+                  </div>
                 <!-- // END .page-section -->
             </div>
         </div>
